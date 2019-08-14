@@ -38,3 +38,7 @@
 ## 실험 결과
 
 <img src="https://github.com/SoohyeonLee/Counterfeit-Bill-Discrimination/blob/master/resource/accuracy.png" width="90%"></img>
+
+___
+
+**작성일 : 2018.08.14**
